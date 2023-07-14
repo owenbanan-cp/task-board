@@ -8,5 +8,5 @@
   - `php artisan key:generate`
   - `php artisan migrate`
 
-## Default Credential
+## Default Credentials
 **Email:** `admin@gmail.com` **||** **Password:** `Hello123`
