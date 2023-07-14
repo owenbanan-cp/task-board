@@ -1,5 +1,3 @@
-# Paynamics PayGate SDK PHP
-
 ## Setup
 ***
 - Setup .env File
